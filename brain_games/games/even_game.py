@@ -3,6 +3,8 @@ from random import randint
 
 
 introduction = 'Answer "yes" if the number is even, otherwise answer "no".'
+
+
 def is_even(num):
     return num % 2 == 0
 

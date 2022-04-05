@@ -5,4 +5,8 @@
 
 [![make-lint](https://github.com/vera-kalabina/python-project-lvl1/actions/workflows/make-lint.yml/badge.svg)](https://github.com/vera-kalabina/python-project-lvl1/actions/workflows/make-lint.yml)
 
+Installation and brain-even demonstration
 <a href="https://asciinema.org/a/484145" target="_blank"><img src="https://asciinema.org/a/484145.svg" /></a>
+
+Brain-calc demonstration
+<a href="https://asciinema.org/a/484637" target="_blank"><img src="https://asciinema.org/a/484637.svg" /></a>
