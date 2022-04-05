@@ -10,3 +10,6 @@ Installation and brain-even demonstration
 
 Brain-calc demonstration
 <a href="https://asciinema.org/a/484637" target="_blank"><img src="https://asciinema.org/a/484637.svg" /></a>
+
+Brain-gcd demonstrarion
+<a href="https://asciinema.org/a/484670" target="_blank"><img src="https://asciinema.org/a/484670.svg" /></a>
