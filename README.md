@@ -13,3 +13,6 @@ Brain-calc demonstration
 
 Brain-gcd demonstrarion
 <a href="https://asciinema.org/a/484670" target="_blank"><img src="https://asciinema.org/a/484670.svg" /></a>
+
+Brain-progression demonstration
+<a href="https://asciinema.org/a/484951" target="_blank"><img src="https://asciinema.org/a/484951.svg" /></a>
