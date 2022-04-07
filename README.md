@@ -7,7 +7,7 @@
 
 Welcome to the Brain games! This program represents five mathematic console games.
 
-The minimum requirement by this program is the python3 and pip are installed on your operating system.
+The minimum requirements by this program is the python3 and pip are installed on your operating system.
 
 For the Brain games installation run command: 'python3 -m pip install --user dist/\*.whl
 
