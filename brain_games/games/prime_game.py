@@ -8,10 +8,10 @@ def is_prime(num):
     counter = 2
     num = int(num)
     while counter <= pow(num, 1 / 2):
-        division_remainder = num % count
+        division_remainder = num % counter
         if num > 3 and division_remainder == 0:
             return('False')
-        count += 1
+        counter += 1
     return('True')
 
 
