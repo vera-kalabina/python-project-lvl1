@@ -5,6 +5,19 @@
 
 [![make-lint](https://github.com/vera-kalabina/python-project-lvl1/actions/workflows/make-lint.yml/badge.svg)](https://github.com/vera-kalabina/python-project-lvl1/actions/workflows/make-lint.yml)
 
+Welcome to the Brain games! This program represents five mathematic console games.
+
+The minimum requirement by this program is the python3 and pip are installed on your operating system.
+
+For the Brain games installation run command: 'python3 -m pip install --user dist/\*.whl
+
+For playing the selected game type one of the commands on command line:
+ - 'brain-even' - play to guess if number is even
+ - 'brain-calc' - play to calculate simple arithmetic operations
+ - 'brain-gcd' - play to find greatest common divisor
+ - 'brain-progression' - play to find missing element of arithmetic progression
+ - 'brain-prime' - play to definite if offered number is prime   
+
 Installation and brain-even demonstration
 <a href="https://asciinema.org/a/484145" target="_blank"><img src="https://asciinema.org/a/484145.svg" /></a>
 

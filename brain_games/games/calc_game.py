@@ -1,6 +1,6 @@
 from random import randint, choice
 
-introduction = 'What is the result of the expression?'
+INTRODUCTION = 'What is the result of the expression?'
 
 
 def question_and_result():

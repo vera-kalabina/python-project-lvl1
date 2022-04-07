@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 from random import randint
 
-introduction = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+INTRODUCTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def is_prime(num):
-    count = 2
+    counter = 2
     num = int(num)
-    while count <= pow(num, 1 / 2):
-        simple = num % count
-        if num > 3 and simple == 0:
+    while counter <= pow(num, 1 / 2):
+        division_remainder = num % count
+        if num > 3 and division_remainder == 0:
             return('False')
         count += 1
     return('True')

@@ -1,6 +1,6 @@
 from random import randint, randrange
 
-introduction = 'What number is missing in the proression?'
+INTRODUCTION = 'What number is missing in the proression?'
 
 
 def question_and_result():

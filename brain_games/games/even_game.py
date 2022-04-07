@@ -2,7 +2,7 @@
 from random import randint
 
 
-introduction = 'Answer "yes" if the number is even, otherwise answer "no".'
+INTRODUCTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def is_even(num):
