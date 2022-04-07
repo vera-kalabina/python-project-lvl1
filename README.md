@@ -16,3 +16,6 @@ Brain-gcd demonstrarion
 
 Brain-progression demonstration
 <a href="https://asciinema.org/a/484951" target="_blank"><img src="https://asciinema.org/a/484951.svg" /></a>
+
+Brain-prime demonstration
+<a href="https://asciinema.org/a/485223" target="_blank"><img src="https://asciinema.org/a/485223.svg" /></a>
