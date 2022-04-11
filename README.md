@@ -19,16 +19,16 @@ For playing the selected game type one of the commands on command line:
  - 'brain-prime' - play to definite if offered number is prime   
 
 ## Installation and brain-even demonstration
-<script id="asciicast-484145" src="https://asciinema.org/a/484145.js" async></script>
+[![asciicast](https://asciinema.org/a/484145.svg)](https://asciinema.org/a/484145)
 
 ## Brain-calc demonstration
-<script id="asciicast-484637" src="https://asciinema.org/a/484637.js" async></script>
+[![asciicast](https://asciinema.org/a/484637.svg)](https://asciinema.org/a/484637)
 
 ## Brain-gcd demonstrarion
-<script id="asciicast-484670" src="https://asciinema.org/a/484670.js" async></script>
+[![asciicast](https://asciinema.org/a/484670.svg)](https://asciinema.org/a/484670)
 
 ## Brain-progression demonstration
-<script id="asciicast-484951" src="https://asciinema.org/a/484951.js" async></script>
+[![asciicast](https://asciinema.org/a/484951.svg)](https://asciinema.org/a/484951)
 
 ## Brain-prime demonstration
-<script id="asciicast-485223" src="https://asciinema.org/a/485223.js" async></script>
+[![asciicast](https://asciinema.org/a/485223.svg)](https://asciinema.org/a/485223)
