@@ -11,7 +11,7 @@ def run(game):
     print(f'Hello, {name}!')
     print(game.INTRODUCTION)
     while round_number <= QUANTITY_OF_ROUNDS:
-        (question, result) = game.question_and_result()
+        (question, result) = game.get_question_and_result()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if answer == result:

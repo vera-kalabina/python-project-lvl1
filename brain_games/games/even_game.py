@@ -8,7 +8,7 @@ def is_even(num):
     return num % 2 == 0
 
 
-def question_and_result():
+def get_question_and_result():
     question = randint(1, 100)
-    result = 'yes' if is_even(question) is True else 'no'
+    result = 'yes' if is_even(question) else 'no'
     return question, result
