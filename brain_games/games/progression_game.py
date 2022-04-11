@@ -6,7 +6,7 @@ NUMBER_OF_ELEMENTS = 10
 
 def create_progression(first_operand, last_operand, common_difference):
     progression = ''
-    for i in range(first_operand,last_operand+1,common_difference):
+    for i in range(first_operand, last_operand + 1, common_difference):
         progression += str(i) + ' '
     return progression
 
@@ -18,6 +18,6 @@ def get_question_and_result():
     result = randrange(int(first_operand),
                        int(last_operand), int(common_difference))
     progression = create_progression(first_operand, last_operand,
-                                    common_difference)
+                                     common_difference)
     question = progression.replace(str(result), '..', 1)
     return question, str(result)
